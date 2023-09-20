@@ -1,0 +1,23 @@
+1. red1 184 % a.out
+2. Alarm> 4 Message(1) Hello to whoever is marking this
+3. Successfully added
+4. Alarm> Message(1) Hello to whoever is marking this
+5. 4 Message(2) this is a very long sentence which is meant to be long to exceed the character length of one-hundred and twenty-eight characters long to then show how this program truncates the very long input
+6. Successfully added
+7. Bad command
+8. Alarm> Alarm> Message(2) this is a very long sentence which is meant to be long to exceed the character length of one-hundred and twenty-ei
+9. as
+10. Bad command
+11. Alarm> sa3 3
+12. Bad command
+13. Alarm> 3 Message(3)
+14. Bad command
+15. Alarm> 100 Message(5) One
+16. Successfully added
+17. Alarm> 200 Message(6) Two
+18. Successfully added
+19. Alarm> 250 Message(7) Three
+20. Buffer is full
+21. Alarm> Cancel: Message(5) 
+22. Alarm>
+23. red1 186 % 
